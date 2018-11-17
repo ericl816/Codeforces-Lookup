@@ -1,5 +1,5 @@
 {
-  "name": "CF Contest-Scouter",
+  "name": "codeforces-contest-scouter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
