@@ -1,4 +1,4 @@
-# Codeforces Contest-Scouter
+# Codeforces Lookup
 A React App that displays information about a CodeForces user using the Codeforces API
 
 ## Project setup
